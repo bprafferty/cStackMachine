@@ -2,7 +2,7 @@ Brian Rafferty
 bprafferty03@gmail.com
 
 prog1_1.c 
-Prints a header with my name and class info.
+Prints a header with my name and assignment #.
 Then the program asks the user to type in 
 their full name. Lastly, the program outputs 
 a greeting to the user.
@@ -24,7 +24,7 @@ that will dictate how many lines the user will
 be allowed to type on. Any deviation from the 
 required input will result in an error message. 
 Next, the program prints a header with my name 
-and class info. If the user types "push" and it 
+and assignment #. If the user types "push" and it 
 is followed by a single word or number, then that 
 value will be added to the stack. If the user 
 types "pop", then the top value on the stack will
